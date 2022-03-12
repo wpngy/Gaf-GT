@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## GatGT
 
-You can use the [editor on GitHub](https://github.com/wpngy/Gaf-GT/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! [editor on GitHub](https://github.com/wpngy/Gaf-GT/edit/main/README.md) you have found our released GatGT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [Jekyll](https://jekyllrb.com/) 
 
 ### Markdown
 
